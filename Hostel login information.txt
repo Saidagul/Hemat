@@ -1,0 +1,13 @@
+login details for admin:
+
+user name:     admin
+password:     admin@123
+
+
+
+
+
+
+Group Members:
+1. Saidagul "Sajed"
+2. Mohammad Latif "danish"
